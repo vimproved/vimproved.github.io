@@ -62,3 +62,7 @@ hr {
 footer {
 	color: var(--muted);
 }
+
+img#buttons {
+	image-rendering: pixelated;
+}
