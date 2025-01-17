@@ -1,2 +1,2 @@
 publish:
-	hugo --destination /var/www/vimproved.dev
+	hugo --cleanDestinationDir --destination /var/www/vimproved.dev
