@@ -4,10 +4,12 @@ name = "about"
 title = "about"
 +++
 # about
-Hello! My name is Violet Purcell, also known as vimproved online (or sometimes
-just vi). At the time of writing, I am 18 years old and am currently studying
-Music Composition at Interlochen Arts Academy. Aside from music, I often
-contribute to open-source projects on the side (primarily Gentoo).
+I am Violet Purcell, also known as vimproved online (or sometimes just vi). I am
+currently 18 years old and am studying Music Composition at Interlochen Arts
+Academy. Aside from music, I often contribute to open-source projects (primarily
+Gentoo).
+
+![Photo of me leaning on an orange bench.](/images/bench.jpg)
 
 ---
 ## links

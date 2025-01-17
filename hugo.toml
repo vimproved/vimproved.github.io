@@ -7,18 +7,17 @@ author = "Violet Purcell"
 copyright = "This website is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) (content) and [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.en.html) (code)"
 languageCode = "en-US"
 
-publishDir = "/var/www/vimproved.dev"
-
 enableRobotsTXT = true
 
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
+
 [permalinks]
 blog = "/:slug/"
 tags = "/blog/:slug"
 
 [params]
-description = "Violet Purcell's personal website"
+description = "violet's personal website"
 
 title = "vimproved"
 

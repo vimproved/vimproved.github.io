@@ -66,3 +66,15 @@ footer {
 img#buttons {
 	image-rendering: pixelated;
 }
+
+.title h2 {
+	margin-bottom: 0;
+}
+
+.title p {
+	margin-top: 0;
+}
+
+nav a {
+	margin-right: 0;
+}

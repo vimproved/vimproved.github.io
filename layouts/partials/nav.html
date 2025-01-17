@@ -1,3 +1,7 @@
-{{ range .Site.Menus.main }}
+<a href="/">home</a>
+|
+<a href="/blog">blog</a>
+{{ range after 1 .Site.Menus.main }}
+|
 <a href="{{ .URL }}">{{ .Name }}</a>
 {{ end }}
