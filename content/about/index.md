@@ -5,9 +5,9 @@ title = "about"
 +++
 # about
 I am Violet Purcell, also known as vimproved online (or sometimes just vi). I am
-currently 18 years old and am studying Music Composition at Interlochen Arts
-Academy. Aside from music, I often contribute to open-source projects (primarily
-Gentoo).
+currently 18 years old and am studying for a BS in Sound Engineering at the
+University of Michigan. Aside from that, I often contribute to open-source
+projects (primarily Gentoo).
 
 ![Photo of me leaning on an orange bench.](/images/bench.jpg)
 
