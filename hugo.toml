@@ -24,3 +24,6 @@ title = "vimproved"
 hideMadeWithLine = true
 
 dateFormat = "2006-01-02"
+
+[markup.goldmark.renderer]
+unsafe = true

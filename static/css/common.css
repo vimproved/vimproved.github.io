@@ -78,3 +78,13 @@ img#buttons {
 nav a {
 	margin-right: 0;
 }
+
+p img {
+	display: block;
+	margin: auto;
+}
+
+code {
+	background-color: var(--text);
+	color: var(--base);
+}
